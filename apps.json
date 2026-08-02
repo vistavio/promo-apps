@@ -2,11 +2,19 @@
   {
     "appName": "KittyGo",
     "imageUrl": "https://raw.githubusercontent.com/vistavio/promo-apps/main/kittygo.png",
-    "linkUrl": "https://play.google.com/store/apps/details?id=com.kittygo.app"
+    "linkUrl": "https://play.google.com/store/apps/details?id=com.kittygo.app",
+    "tagline": {
+      "tr": "Seyahat planlama ve gezi asistanı",
+      "en": "Travel planning & trip assistant"
+    }
   },
   {
     "appName": "Scanvista",
     "imageUrl": "https://raw.githubusercontent.com/vistavio/promo-apps/main/scanvista.png",
-    "linkUrl": "https://play.google.com/store/apps/details?id=com.scanvista.app"
+    "linkUrl": "https://play.google.com/store/apps/details?id=com.scanvista.app",
+    "tagline": {
+      "tr": "Belge tarama, PDF ve metin okuyucu",
+      "en": "Document scanner, PDF & text reader"
+    }
   }
 ]
