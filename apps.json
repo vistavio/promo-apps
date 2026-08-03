@@ -5,7 +5,15 @@
     "linkUrl": "https://play.google.com/store/apps/details?id=com.kittygo.app",
     "tagline": {
       "tr": "Seyahat planlama ve gezi asistanı",
-      "en": "Travel planning & trip assistant"
+      "en": "Travel planning & trip assistant",
+      "de": "Reiseplanung & Reisebegleiter",
+      "fr": "Planification de voyage et assistant de voyage",
+      "zh": "旅行规划与出行助手",
+      "es": "Planificación de viajes y asistente de viaje",
+      "it": "Pianificazione di viaggio e assistente di viaggio",
+      "ru": "Планирование поездок и помощник в путешествиях",
+      "ja": "旅行計画・旅のアシスタント",
+      "ko": "여행 계획 및 여행 도우미"
     }
   },
   {
@@ -14,7 +22,15 @@
     "linkUrl": "https://play.google.com/store/apps/details?id=com.scanvista.app",
     "tagline": {
       "tr": "Belge tarama, PDF ve metin okuyucu",
-      "en": "Document scanner, PDF & text reader"
+      "en": "Document scanner, PDF & text reader",
+      "de": "Dokumentenscanner, PDF & Texterkennung",
+      "fr": "Scanner de documents, PDF et lecteur de texte",
+      "zh": "文档扫描仪、PDF 与文字识别",
+      "es": "Escáner de documentos, PDF y lector de texto",
+      "it": "Scanner di documenti, PDF e lettore di testo",
+      "ru": "Сканер документов, PDF и распознавание текста",
+      "ja": "書類スキャナー・PDF・テキスト読み取り",
+      "ko": "문서 스캐너, PDF 및 텍스트 리더"
     }
   }
 ]
