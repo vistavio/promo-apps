@@ -1,0 +1,6 @@
+{
+  "android": {
+    "packageId": "com.vistavio.weather",
+    "minVersionCode": 9
+  }
+}
