@@ -1,0 +1,6 @@
+{
+  "android": {
+    "packageId": "com.estevista.snaplift",
+    "minVersionCode": 1
+  }
+}
