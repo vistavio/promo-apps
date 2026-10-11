@@ -1,6 +1,6 @@
 {
   "android": {
     "packageId": "com.vistavio.weather",
-    "minVersionCode": 15
+    "minVersionCode": 18
   }
 }
